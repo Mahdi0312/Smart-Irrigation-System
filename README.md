@@ -1,4 +1,4 @@
-# Smart-Irrigation-System
+# Smart Irrigation System
 ## 1. Libraries and Initialization:
 ### Imported Libraries:
 DHT.h and DHT_U.h: To read temperature and humidity using a DHT11 sensor.
